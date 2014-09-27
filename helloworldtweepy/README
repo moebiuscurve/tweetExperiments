@@ -1,0 +1,13 @@
+How to use this program
+=======================
+1. install python using your native OS package tool kit (e.f apt,yum etc) or from source 
+2. install tweepy either using package tool kit or from python package mangers (e.g pip, easy_install etc) 
+3. Goto https://apps.twitter.com/ and create a new app, create access token
+4. Fill these keys in helloworld.py
+
+API_KEY='put your \'Consumer Key (API Key)\' here'
+API_SECRET='put your \'Consumer Secret (API Secret)\' here'
+ACCESS_KEY='put your \'Access Token\' here'
+ACCESS_SECRET='put your \'Access Token Secret\'  here'
+
+5. start tweeting
