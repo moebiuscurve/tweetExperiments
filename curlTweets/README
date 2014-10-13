@@ -1,0 +1,5 @@
+How to use this program
+=======================
+1. Goto https://apps.twitter.com/ and create a new app, create access token
+2. change the permissions of keys and regenrate all keys and then all tokens
+3. For the sake of this program I have already created an app for twitter handle https://twitter.com/hackingapis. You can post random messages using app keys and tokens for this handle. Just don't misuse it, or I will be forced to change the keys.
